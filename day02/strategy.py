@@ -22,10 +22,6 @@ enemy_scissor = {
     "Z": 3
 }
 
-LOSS = 0
-DRAW = 3
-WIN = 6
-
 input = open("input.txt", "r")
 strategy_guide = input.readlines()
 
